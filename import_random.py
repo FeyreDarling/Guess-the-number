@@ -54,15 +54,3 @@ try:
 except Exception:
     print ("Solo se pueden introducir números")
 
-
-
-        
-
-
-
-
-
-
-
-
-
